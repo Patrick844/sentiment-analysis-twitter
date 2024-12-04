@@ -121,7 +121,7 @@ The training and validation pipelines produce metrics such as accuracy and loss.
 │   ├── twitter_validation.csv
 ├── model/
 │   ├── sa_twitter.pt  # Saved model weights
-├── pytorch_lightning_sa.py  # Main pipeline and training script
+├── pytorch_sa.py  # Main pipeline and training script
 ├── README.md
 ```
 
